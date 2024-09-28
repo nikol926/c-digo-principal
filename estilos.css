@@ -1,0 +1,38 @@
+/* para pantallas pequeñas */
+@media(max-width: 600px) {
+    nav ul li {
+        float: none;
+    }
+}
+
+.titulo {
+    color: red;
+}
+
+.pestañas {
+    color: blue;
+}
+
+.img1 {
+    color: black;
+}
+
+.img2 {
+    color: orangered;
+}
+
+.ig {
+    color: darkmagenta;
+}
+
+.wsp {
+    color: darkgreen;
+}
+
+.face {
+    color: blue;
+}
+
+.contacto {
+    color: darkred;
+}
